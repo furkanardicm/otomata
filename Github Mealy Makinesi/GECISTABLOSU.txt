@@ -1,0 +1,8 @@
+    After input 0   After input 1   After input 2
+Old State   New State   Output  New State   Output  New State Output
+q0  q2  0   q4  1   q1  1
+q1  q2  1   q0  1   q2  0
+q2  q4  0   q1  1   q1  1
+q3  q3  1   q1  1   q3  1
+q4  q2  0   q1  1   q0  0
+q5  q0  1   q4  0   q5  0
